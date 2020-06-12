@@ -1,0 +1,39 @@
+*{
+    color: navy;
+} 
+
+h3{
+    color: darkgreen;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
+.box1{
+    background-color: salmon;
+}
+
+.profile{
+    font-size: 50px;
+    font-style: italic ;
+    text-align: center;
+}
+
+#image{
+    border: 10px mediumslateblue solid;
+}
+
+
+p{
+    color: olive;
+    font-size: 15px;
+    font-style: initial;
+}
+
+li{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+
+
